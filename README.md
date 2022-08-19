@@ -1,6 +1,7 @@
 # PCI_class_projects
 Proyectos de clase PCI 
 #### QUIERES TENER UN PERRITO
+#### Es admirable adoptar a un perrito pero es muy importante encontrarle un buen hogar, es por eso que mi proyecto es sobre cuidar y hacer al mejor amigo del hombre muy feliz. 
 1. ¿Eres mayor de 12 años?
 #####SI (pregunta 2) / No (pregunta 5)
 2. ¿Tienes dinero para comprar su comida?
