@@ -1,3 +1,6 @@
+#PROGRAMA A USAR: proyecto_mascota_og.py  
+
+
 # El programa funciona asi:
 ## 1 - Inicias el programas escribiendo 'PLAY'.
 ## 2 - Ingresas tu nombre.
