@@ -1,5 +1,5 @@
-#PROGRAMA A USAR: proyecto_mascota_og.py  
-
+# PROGRAMA A USAR: proyecto_mascota_og.py  
+## Los demas programas que hay son avances del mismo programa
 
 # El programa funciona asi:
 ## 1 - Inicias el programas escribiendo 'PLAY'.
